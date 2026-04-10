@@ -5,11 +5,29 @@
 		"factoryName": {
 			"value": "azureadf26"
 		},
+		"archieve_blob_connectionString": {
+			"value": ""
+		},
 		"csv_storage_connectionString": {
+			"value": ""
+		},
+		"db_target_password": {
 			"value": ""
 		},
 		"target_csv_connectionString": {
 			"value": ""
+		},
+		"text_storage_connectionString": {
+			"value": ""
+		},
+		"db_target_properties_typeProperties_server": {
+			"value": "az-dbs.database.windows.net"
+		},
+		"db_target_properties_typeProperties_database": {
+			"value": "azuredb"
+		},
+		"db_target_properties_typeProperties_userName": {
+			"value": "admins"
 		}
 	}
 }
