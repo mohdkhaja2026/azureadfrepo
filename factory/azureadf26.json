@@ -1,0 +1,9 @@
+{
+	"name": "azureadf26",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c09a18a1-1226-445b-bc82-57d8833e86a9",
+		"tenantId": "b392f038-2757-4386-a23f-e0c210d2059a"
+	}
+}
