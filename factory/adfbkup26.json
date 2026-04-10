@@ -1,0 +1,9 @@
+{
+	"name": "adfbkup26",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1905840e-8b36-49fd-9358-4db66dce4f9c",
+		"tenantId": "b392f038-2757-4386-a23f-e0c210d2059a"
+	}
+}
