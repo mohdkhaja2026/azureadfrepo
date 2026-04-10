@@ -7,6 +7,14 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "azureadf26"
 		},
+		"csv_storage_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'csv_storage'"
+		},
+		"target_csv_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'target_csv'"
+		},
 		"containerUri": {
 			"type": "string",
 			"metadata": "URI to storage account containing linked ARM templates"
@@ -33,6 +41,12 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
+					},
+					"csv_storage_connectionString": {
+						"value": "[parameters('csv_storage_connectionString')]"
+					},
+					"target_csv_connectionString": {
+						"value": "[parameters('target_csv_connectionString')]"
 					}
 				}
 			},

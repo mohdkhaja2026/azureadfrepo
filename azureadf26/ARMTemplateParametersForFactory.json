@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "azureadf26"
+		},
+		"csv_storage_connectionString": {
+			"value": ""
+		},
+		"target_csv_connectionString": {
+			"value": ""
 		}
 	}
 }
