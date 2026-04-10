@@ -61,7 +61,7 @@
 				]
 			},
 			{
-				"name": "Delete1",
+				"name": "Delete file",
 				"type": "Delete",
 				"dependsOn": [
 					{
