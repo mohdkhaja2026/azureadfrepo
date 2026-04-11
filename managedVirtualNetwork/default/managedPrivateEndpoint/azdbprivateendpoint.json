@@ -1,0 +1,7 @@
+{
+	"name": "azdbprivateendpoint",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a6980875-f787-4c1d-9f90-429ca82e8fbd/resourceGroups/adfresourcegroup/providers/Microsoft.Sql/servers/azdb26",
+		"groupId": "sqlServer"
+	}
+}
